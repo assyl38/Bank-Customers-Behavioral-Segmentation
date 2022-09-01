@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8edfd29-acf2-491a-b1f0-dc7073bb587f" name="Changes" comment="first commit">
+    <list default="true" id="c8edfd29-acf2-491a-b1f0-dc7073bb587f" name="Changes" comment="first data preprocessing">
+      <change afterPath="$PROJECT_DIR$/Cluster_Analysis.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Preprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Preprocessing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figure1.png" beforeDir="false" afterPath="$PROJECT_DIR$/figure1.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +20,14 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -38,7 +48,7 @@
     "ToolWindowGit.ShowToolbar": "false",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/ASUS/Documents/GitHub/Bank-Customers-Behavioral-Segmentation",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   },
   "keyToStringList": {
     "GitStage.ChangesTree.GroupingKeys": [
@@ -89,6 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661443429233</updated>
       <workItem from="1661443431326" duration="6205000" />
+      <workItem from="1661605257461" duration="50427000" />
     </task>
     <task id="LOCAL-00001" summary="Data preprocessing">
       <created>1661449090763</created>
@@ -146,6 +157,10 @@
           <url>file://$PROJECT_DIR$/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/ASUS/Documents/GitHub/pythonProject2/Cluster_Analysis.ipynb</url>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
