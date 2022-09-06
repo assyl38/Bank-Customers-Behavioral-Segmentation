@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8edfd29-acf2-491a-b1f0-dc7073bb587f" name="Changes" comment="first data preprocessing">
-      <change afterPath="$PROJECT_DIR$/Cluster_Analysis.ipynb" afterDir="false" />
+    <list default="true" id="c8edfd29-acf2-491a-b1f0-dc7073bb587f" name="Changes" comment="clustering phase">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Preprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Preprocessing.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure1.png" beforeDir="false" afterPath="$PROJECT_DIR$/figure1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Preprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Preprocessing.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661443429233</updated>
       <workItem from="1661443431326" duration="6205000" />
-      <workItem from="1661605257461" duration="50427000" />
+      <workItem from="1661605257461" duration="69880000" />
     </task>
     <task id="LOCAL-00001" summary="Data preprocessing">
       <created>1661449090763</created>
@@ -115,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661449250258</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="clustering phase">
+      <created>1662058036810</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662058036810</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,7 +153,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Data preprocessing" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="clustering phase" />
+    <option name="LAST_COMMIT_MESSAGE" value="clustering phase" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -161,6 +167,16 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook://C:/Users/ASUS/Documents/GitHub/pythonProject2/Cluster_Analysis.ipynb</url>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/ASUS/Documents/GitHub/pythonProject2/Data_Preprocessing.ipynb</url>
+          <line>324</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/ASUS/Documents/GitHub/pythonProject2/Data_Preprocessing.ipynb</url>
+          <line>327</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
