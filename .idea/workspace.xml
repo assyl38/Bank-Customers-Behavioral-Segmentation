@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8edfd29-acf2-491a-b1f0-dc7073bb587f" name="Changes" comment="clustering phase">
+    <list default="true" id="c8edfd29-acf2-491a-b1f0-dc7073bb587f" name="Changes" comment="Evluation">
+      <change afterPath="$PROJECT_DIR$/Code.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exportToHTML/Data_Preprocessing.ipynb.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cluster_Analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Cluster_Analysis.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data_Preprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Preprocessing.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,24 +45,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ToolWindowGit.ShowToolbar": "false",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/ASUS/Documents/GitHub/Bank-Customers-Behavioral-Segmentation",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ToolWindowGit.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/Documents/GitHub/pythonProject2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ASUS\Documents\GitHub\pythonProject2" />
@@ -97,7 +104,8 @@
       <option name="presentableId" value="Default" />
       <updated>1661443429233</updated>
       <workItem from="1661443431326" duration="6205000" />
-      <workItem from="1661605257461" duration="69880000" />
+      <workItem from="1661605257461" duration="69999000" />
+      <workItem from="1662485204584" duration="15340000" />
     </task>
     <task id="LOCAL-00001" summary="Data preprocessing">
       <created>1661449090763</created>
@@ -120,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662058036810</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Evluation">
+      <created>1662474574081</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662474574082</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,8 +168,9 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Data preprocessing" />
     <MESSAGE value="first commit" />
-    <MESSAGE value="clustering phase" />
-    <option name="LAST_COMMIT_MESSAGE" value="clustering phase" />
+    <MESSAGE value="K-Means Clustering" />
+    <MESSAGE value="Evluation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Evluation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -166,6 +182,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook://C:/Users/ASUS/Documents/GitHub/pythonProject2/Cluster_Analysis.ipynb</url>
+          <line>2</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
