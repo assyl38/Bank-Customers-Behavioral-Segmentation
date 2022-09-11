@@ -30,7 +30,7 @@ Cross-industry standard process for data mining, known as CRISP-DM, is an open s
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/CRISP-DM_Process_Diagram.png/479px-CRISP-DM_Process_Diagram.png)
 
-## Objectives :
+### Objectives :
 
 - Business understanding
 - Data Understanding
