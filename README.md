@@ -1,4 +1,4 @@
-# Bank-Customers-Behavioral-Segmentation
+# Use Case Summary
 
 ## Project Context:
 This project aims to cluster a private bank's clients based on their behavior. This case requires to develop a customer segmentation to define marketing strategy to insure customer's satisfaction. 
