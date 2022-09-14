@@ -39,4 +39,9 @@ Cross-industry standard process for data mining, known as CRISP-DM, is an open s
 - Evaluation
 - Deployment
 
+### Challenges :
+- Very large dataset
+- Extremely skewed data
+
+
 
